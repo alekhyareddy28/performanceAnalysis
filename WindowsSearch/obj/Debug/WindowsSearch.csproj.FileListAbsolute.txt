@@ -1,0 +1,12 @@
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\bin\Debug\WindowsSearch.exe.config
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\bin\Debug\WindowsSearch.exe
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\bin\Debug\WindowsSearch.pdb
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\obj\Debug\WindowsSearch.csprojAssemblyReference.cache
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\obj\Debug\WindowsSearch.exe
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\obj\Debug\WindowsSearch.pdb
+E:\Power_toys\time-performance-test\performanceAnalysis\WindowsSearch\bin\Debug\WindowsSearch.exe.config
+E:\Power_toys\time-performance-test\performanceAnalysis\WindowsSearch\bin\Debug\WindowsSearch.exe
+E:\Power_toys\time-performance-test\performanceAnalysis\WindowsSearch\bin\Debug\WindowsSearch.pdb
+E:\Power_toys\time-performance-test\performanceAnalysis\WindowsSearch\obj\Debug\WindowsSearch.csprojAssemblyReference.cache
+E:\Power_toys\time-performance-test\performanceAnalysis\WindowsSearch\obj\Debug\WindowsSearch.exe
+E:\Power_toys\time-performance-test\performanceAnalysis\WindowsSearch\obj\Debug\WindowsSearch.pdb

@@ -1,0 +1,12 @@
+E:\Power_toys\time-performance-test\everything-performance\everythingPerf\bin\x64\Debug\everythingPerf.exe.config
+E:\Power_toys\time-performance-test\everything-performance\everythingPerf\bin\x64\Debug\everythingPerf.exe
+E:\Power_toys\time-performance-test\everything-performance\everythingPerf\bin\x64\Debug\everythingPerf.pdb
+E:\Power_toys\time-performance-test\everything-performance\everythingPerf\obj\x64\Debug\everythingPerf.exe
+E:\Power_toys\time-performance-test\everything-performance\everythingPerf\obj\x64\Debug\everythingPerf.pdb
+E:\Power_toys\time-performance-test\everything-performance\everythingPerf\obj\x64\Debug\everythingPerf.csprojAssemblyReference.cache
+E:\Power_toys\time-performance-test\performanceAnalysis\everythingPerf\bin\x64\Debug\everythingPerf.exe.config
+E:\Power_toys\time-performance-test\performanceAnalysis\everythingPerf\bin\x64\Debug\everythingPerf.exe
+E:\Power_toys\time-performance-test\performanceAnalysis\everythingPerf\bin\x64\Debug\everythingPerf.pdb
+E:\Power_toys\time-performance-test\performanceAnalysis\everythingPerf\obj\x64\Debug\everythingPerf.csprojAssemblyReference.cache
+E:\Power_toys\time-performance-test\performanceAnalysis\everythingPerf\obj\x64\Debug\everythingPerf.exe
+E:\Power_toys\time-performance-test\performanceAnalysis\everythingPerf\obj\x64\Debug\everythingPerf.pdb

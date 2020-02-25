@@ -1,0 +1,5 @@
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\bin\Release\WindowsSearch.exe.config
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\bin\Release\WindowsSearch.exe
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\bin\Release\WindowsSearch.pdb
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\obj\Release\WindowsSearch.exe
+E:\Power_toys\time-performance-test\everything-performance\WindowsSearch\obj\Release\WindowsSearch.pdb
