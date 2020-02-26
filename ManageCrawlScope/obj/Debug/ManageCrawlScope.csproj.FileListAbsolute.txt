@@ -1,0 +1,6 @@
+E:\Power_toys\time-performance-test\performanceAnalysis\ManageCrawlScope\bin\Debug\ManageCrawlScope.exe.config
+E:\Power_toys\time-performance-test\performanceAnalysis\ManageCrawlScope\bin\Debug\ManageCrawlScope.exe
+E:\Power_toys\time-performance-test\performanceAnalysis\ManageCrawlScope\bin\Debug\ManageCrawlScope.pdb
+E:\Power_toys\time-performance-test\performanceAnalysis\ManageCrawlScope\obj\Debug\ManageCrawlScope.csprojAssemblyReference.cache
+E:\Power_toys\time-performance-test\performanceAnalysis\ManageCrawlScope\obj\Debug\ManageCrawlScope.exe
+E:\Power_toys\time-performance-test\performanceAnalysis\ManageCrawlScope\obj\Debug\ManageCrawlScope.pdb
